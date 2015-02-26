@@ -19,5 +19,5 @@ describe("home page", function(){
         it("first item is 1", function(){
             expect($(".list-group li").first().html().trim()).toEqual("1");
         });
-    })
-})
+    });
+});
