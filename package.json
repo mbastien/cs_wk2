@@ -1,0 +1,27 @@
+{
+  "name": "wk2_fb",
+  "version": "0.0.1",
+  "description": "computes a fizz buzz sequence",
+  "main": "src/fizz_buzz.js",
+  "dependencies": {
+    "nodemon": "^1.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jasmine-node spec/fizz_buzz_spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mbastien/cs_wk2.git"
+  },
+  "keywords": [
+    "fizz",
+    "buzz"
+  ],
+  "author": "Marc!!",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbastien/cs_wk2/issues"
+  },
+  "homepage": "https://github.com/mbastien/cs_wk2"
+}
